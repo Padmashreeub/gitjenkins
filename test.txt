@@ -1,1 +1,2 @@
 echo "Hello user"
+date >> /tmp/hello.txt
